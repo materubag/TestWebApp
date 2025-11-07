@@ -1,0 +1,8 @@
+{
+  "name": "tu-org/mini-todo-php",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
